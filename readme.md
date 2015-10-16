@@ -16,3 +16,6 @@ sidebar_right.php
 
 use your own styling as you are willing to add.
 
+#Example
+Download the script and access through localhost/indus-quiz/1
+you will see the running example
