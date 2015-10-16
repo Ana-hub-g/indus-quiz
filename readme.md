@@ -14,5 +14,5 @@ footer.php
 sidebar_left.php
 sidebar_right.php
 
-use you own styling as you are willing to add.
+use your own styling as you are willing to add.
 
