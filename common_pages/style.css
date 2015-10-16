@@ -1,0 +1,15 @@
+/*Your styles go here*/
+div.main {
+    width: 90%;
+    margin-top: 15px;
+    float: left;
+    border-radius: 5px;
+    Border: 2px solid #999900;
+    padding: 0px 5px 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.gray{
+	background-color: gray;
+	color: #CCCCCC;
+}
